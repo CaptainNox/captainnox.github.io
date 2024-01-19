@@ -22,8 +22,8 @@ title: Behind The Binary
 email: nobody@nox.com
 description: >- # this means to ignore newlines until "baseurl:"
   A roadway of my reverse engineering and malware analysis research. Thanks for reading my work, and hopefully you learnt something new :D
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://captainnox.github.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://captainnox.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CaptainNox_
 github_username:  CaptainNox
 
