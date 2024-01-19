@@ -10,4 +10,4 @@ I am Nox, a 20 year old cybersecurity student from Belgium. I have been passionn
 
 ## What got me into this?
 
-I have always been interested in the mechanics of malware. In the summer of 2023 is when I started putting effort in trying to understand them. Which lead to the development of [Hypnos](https://github.com/CaptainNox/Hypnos). A small userland evasion project, which got me *hooked* ;).
+I have always been interested in the mechanics of malware. The summer of 2023 is when I started to put effort in trying to understand them. Which lead to the development of [Hypnos](https://github.com/CaptainNox/Hypnos). A small userland evasion project, which got me *hooked* ;).
